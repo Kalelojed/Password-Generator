@@ -8,7 +8,6 @@ This project can generate secure random passwords that include **lowercase lette
 ---
 
 ## Design Inspiration
-I've been inspired by the design from the "Pomo" app for Desktop and Mobile
 
 ![Inspiration](Assets/inspo.jpg)
 
