@@ -1,4 +1,4 @@
-![](Assets/icon.png)
+![](Assets/icon.ico)
 # Password Generator
 
 A Password Generator App built with Python using **CustomTkinter**.
